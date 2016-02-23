@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./invergilliibuco00probgoog/invergilliibuco00probgoog_0095.png"; bbox 0 0 3534 5450; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 585 1609 1043 2083">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 585 1609 1043 2083">
+     <span class='ocr_line' id='line_1_1' title="bbox 779 1609 852 1695; baseline 0 -25"><span class='ocrx_word' id='word_1_1' title='bbox 779 1609 852 1695; x_wconf 59' lang='grc' dir='ltr'>η.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 585 1933 1043 2083; baseline 0 -5"><span class='ocrx_word' id='word_1_2' title='bbox 585 1933 1043 2083; x_wconf 70' lang='lat' dir='ltr'><strong>scholiorum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 283 2320 1448 2679">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 283 2320 1448 2679">
+     <span class='ocr_line' id='line_1_3' title="bbox 283 2320 1448 2463; baseline -0.001 -34"><span class='ocrx_word' id='word_1_3' title='bbox 283 2321 328 2430; x_wconf 73' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_4' title='bbox 365 2320 550 2458; x_wconf 74' lang='lat' dir='ltr'>vergilii</span> <span class='ocrx_word' id='word_1_5' title='bbox 582 2324 804 2459; x_wconf 73' lang='lat' dir='ltr'><strong>Bucolica,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 850 2323 1079 2463; x_wconf 65' lang='lat' dir='ltr'>Georgica,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1122 2321 1347 2436; x_wconf 69' lang='lat' dir='ltr'>Aeneidem</span> <span class='ocrx_word' id='word_1_8' title='bbox 1444 2424 1448 2428; x_wconf 82' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 576 2541 949 2679; baseline 0.005 -28"><span class='ocrx_word' id='word_1_9' title='bbox 576 2589 584 2608; x_wconf 92' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 686 2541 949 2679; x_wconf 73' lang='lat' dir='ltr'><strong>fragmenta,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 499 2899 1127 2987">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 499 2899 1127 2987">
+     <span class='ocr_line' id='line_1_5' title="bbox 499 2899 1127 2987; baseline -0.005 -23"><span class='ocrx_word' id='word_1_11' title='bbox 499 2920 520 2979; x_wconf 19' lang='lat' dir='ltr'>le</span> <span class='ocrx_word' id='word_1_12' title='bbox 545 2904 648 2969; x_wconf 75' lang='lat' dir='ltr'><strong>codice</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 677 2904 824 2987; x_wconf 73' lang='lat' dir='ltr'><strong>resoripto</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 845 2899 1016 2967; x_wconf 77' lang='lat' dir='ltr'>Veronensi</span> <span class='ocrx_word' id='word_1_15' title='bbox 1037 2901 1127 2965; x_wconf 72' lang='lat' dir='ltr'><strong>edita.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1772 5450">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1772 5450">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1772 5450; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1772 5450; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
